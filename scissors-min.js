@@ -1,0 +1,1 @@
+var Scissors={},bags={},wags={};
