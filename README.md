@@ -23,11 +23,11 @@ Returns *string* with its words reversed. Splits on spaces.
 
 #### Example:
 
->It is so long since I first took opium that if it had been a trifling incident in my life I might have forgotten its date; but cardinal events are not to be forgotten, and from circumstances connected with it I remember that it must be referred to the autumn of 1804.
+> It is so long since I first took opium that if it had been a trifling incident in my life I might have forgotten its date; but cardinal events are not to be forgotten, and from circumstances connected with it I remember that it must be referred to the autumn of 1804.
 
 gives:
 
->1804. of autumn the to referred be must it that remember I it with connected circumstances from and forgotten, be to not are events cardinal but date; its forgotten have might I life my in incident trifling a been had it if that opium took first I since long so is It
+> 1804\. of autumn the to referred be must it that remember I it with connected circumstances from and forgotten, be to not are events cardinal but date; its forgotten have might I life my in incident trifling a been had it if that opium took first I since long so is It
 
 ### scramble(*string*)
 
