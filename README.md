@@ -20,16 +20,16 @@ Returns *string* with its words in a random order. Splits on spaces.
 
 #### Example:
 
-"Immured in Heaven!  
- What a cell!  
- Let every Bondage be,  
- Thou sweetest of the Universe,  
- Like that which ravished thee!"  
+>Immured in Heaven!  
+>What a cell!  
+>Let every Bondage be,  
+>Thou sweetest of the Universe,  
+>Like that which ravished thee!  
 
 could give
 
-"be,  
- of in that a Thou Universe,  
- every ravished the What Let cell!  
- Like sweetest Bondage which Heaven!  
- thee! Immured"  
+>be,  
+>of in that a Thou Universe,  
+>every ravished the What Let cell!  
+>Like sweetest Bondage which Heaven!  
+>thee! Immured  
