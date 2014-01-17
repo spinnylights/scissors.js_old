@@ -29,7 +29,7 @@ gives:
 
 > 1804\. of autumn the to referred be must it that remember I it with connected circumstances from and forgotten, be to not are events cardinal but date; its forgotten have might I life my in incident trifling a been had it if that opium took first I since long so is It
 
-[&uarr;top](#functions)
+[&uarr; top](#functions)
 
 ### scramble(*string*)
 
@@ -51,4 +51,4 @@ could give
 >Like sweetest Bondage which Heaven!  
 >thee! Immured  
 
-[&uarr;top](#functions)
+[&uarr; top](#functions)
