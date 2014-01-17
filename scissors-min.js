@@ -1,1 +1,1 @@
-var Scissors={};!function(){function r(r){for(var n,o,t=r.length;t;)o=Math.floor(Math.random()*t--),n=r[t],r[t]=r[o],r[o]=n;return r}Scissors.scramble=function(n){var o=n.split(" ");return r(o).join(" ")}}();
+var Scissors={};!function(){Scissors.reverse=function(r){var n=r.split(" ");return n.reverse().join(" ")}}(),function(){function r(r){for(var n,o,s=r.length;s;)o=Math.floor(Math.random()*s--),n=r[s],r[s]=r[o],r[o]=n;return r}Scissors.scramble=function(n){var o=n.split(" ");return r(o).join(" ")}}();
