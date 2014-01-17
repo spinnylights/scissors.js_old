@@ -1,1 +1,1 @@
-var Scissors={},bags={},wags={};
+var Scissors={};!function(){function r(r){for(var n,o,t=r.length;t;)o=Math.floor(Math.random()*t--),n=r[t],r[t]=r[o],r[o]=n;return r}Scissors.scramble=function(n){var o=n.split(" ");return r(o).join(" ")}}();
